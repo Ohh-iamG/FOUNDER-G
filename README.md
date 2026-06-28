@@ -1,20 +1,16 @@
 
 
-# <img width="70" height="100" alt="logo png" src="https://github.com/user-attachments/assets/44f68c6c-a9a8-4be6-b5f9-1dbb3f88d703" /> <h1>G | Founder of EARTH-I</h1>
-
-
-<img src="https://raw.githubusercontent.com/kane610/kane610/master/assets/rainbow.gif" width="100%" height="3px">
-
-I love to create anything, many things, anytime. I am happy endlessly learning. I feel connected to Earth, alive in nature, I respect it, and I give back always. I do it barefoot, live simply, leave no foot prints.
+<h1>G | Founder of EARTH-I</h1><img width="70" height="100" alt="logo png" src="https://github.com/user-attachments/assets/44f68c6c-a9a8-4be6-b5f9-1dbb3f88d703" />
 <img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/674deea5-d5bc-4418-a651-ec0a20423357" />
-
-
+<img src="https://raw.githubusercontent.com/kane610/kane610/master/assets/rainbow.gif" width="100%" height="3px">
+I love to create anything, many things, anytime. I am happy endlessly learning. I feel connected to Earth, alive in nature, I respect it, and I give back always. I do it barefoot, live simply, leave no foot prints.
 
 ##  The Mission: Save Mother Earth. 
 ##  The Problem: The weight of that contradiction. 
+<img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/674deea5-d5bc-4418-a651-ec0a20423357" />
 Between what the earth needs and what the grifting system extracts — became unbearable. 
 I cant reform the system. So I created a new one, I Built it With Country. 
-<img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/674deea5-d5bc-4418-a651-ec0a20423357" />
+---
 I grew up in Nhulunbuy, on the red earth and the saltwater edges of Arnhem Land.
 That place shaped me long before I understood how deeply it lived within me.
 The land was never scenery — it was a teacher, a protector, a storyteller.
