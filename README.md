@@ -85,7 +85,7 @@ I design systems that cross-examine technical execution with complex governance 
 * **[EI-EARTH-I](https://github.com/Ohh-iamG/EI-EARTH-I)** - The core v1.0-STABILIZED planetary-scale engine. `(In Process)`
 * **[EI-ATMOSPHERIC-OS-WHITE-PAPER-V2.0-2026](https://github.com/Ohh-iamG/EI-ATMOSPHERIC-OS-WHITE-PAPER-V2.0-2026)** - Theoretical blueprints and implementation vectors.
 * **[EI-INDUSTRIAL](https://github.com/Ohh-iamG/EI-INDUSTRIAL)** - The action layer. Tracking the human footprint, mining, and accountability.
-* **[EI-LIFE](https://github.com/Ohh-iamG/EI-LIFE)** - The biophysical truth layer. Monitoring the sea, soil biology, and deep natural systems.
+* **[EI-BIOPHYSICAL](https://github.com/Ohh-iamG/EI-LIFE)** - The biophysical truth layer. Monitoring the sea, soil biology, and deep natural systems.
 
 <img width="1100" height="9" alt="RAINBOW" src="https://github.com/user-attachments/assets/674deea5-d5bc-4418-a651-ec0a20423357" />
 
